@@ -1,6 +1,8 @@
 # UnityStuff
 ### @hackedbyshmoo
 
+I had to delete the original repository because I recently got a new Macbook pro, and as such, I forgot to set user.name and user.email for git. I had shown my full name to the world for about a minute.
+
 This repository contains structs and other useful stuff to hack 64 bit Unity games on iOS. monoArray and monoString were written by caoyin. Included:
 
 Included:
